@@ -52,7 +52,7 @@ This project implements a hybrid RAG system that combines vector search (ChromaD
 1. **Clone the repository**
 ```bash
 git clone https://github.com/sharpsalt/Generative-AI-for-Demystifying-Legal-Documents.git
-cd legal-document-rag
+cd Generative-AI-for-Demystifying-Legal-Documents
 ```
 
 2. **Create and activate conda environment**
