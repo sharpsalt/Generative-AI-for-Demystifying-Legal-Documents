@@ -51,7 +51,7 @@ This project implements a hybrid RAG system that combines vector search (ChromaD
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/sharpsalt/Generative-AI-for-Demystifying-Legal-Documents.git
 cd legal-document-rag
 ```
 
